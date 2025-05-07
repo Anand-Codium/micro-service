@@ -1,0 +1,17 @@
+{
+    "name": "codium-tech/pincode-manager",
+    "description": "Contains list of pincode in INDIA",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CodiumTech\\PincodeManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anand H"
+        }
+    ],
+    "require": {}
+}
